@@ -1,0 +1,15 @@
+header {text-align: center; color: grey; font-family: fantasy;}
+h1{font-family: Calibri Light, sans-serif; font-size: 36px; text-align: left; color: white;}
+h2{font-family: cursive; font-size: 36px; text-align: left; color: white; margin-top: 400px;}
+h3{font-family: monospace; color: white; margin-top: 400px;}
+p1 {
+  font-family: Calibri Light,sans-serif; font-size: 24px;
+  text-align: left; color: white; margin-bottom: 400px;
+}
+p2 {
+  font-family: Calibri Light,sans-serif; font-size: 24px;
+  text-align: left; color: pink; font-style: italic;
+}
+body{background-image: url("Website Background.png");}
+img{height: auto; width: auto; float: left; border-radius: 2px;border-color: red;}
+iframe{float: left;margin-top: 50px; margin-bottom: 50px; border-radius: 2px;border-color: red;}

@@ -1,0 +1,5 @@
+Green-Cyan : #009966
+Warm Black #004242
+Masstrict Blue Hex:#001c3d
+Oxford Blue #002147
+Teal #008080
